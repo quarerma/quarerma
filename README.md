@@ -7,13 +7,16 @@
 ##
 ##### Tenho intenções profissionais em áreas de back-end e DataScience
 ##### Atualmente uso esse perfil para dispôr meus arquivos de aula e trabalhos
-###
-##
-###### Para qualquer contato utlize o e-mail: gabriel.oliveira.quaresma@gmail.com 
+
 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quarerma&theme=tokyonight)
+###
+##
+###
+##
+###### Para qualquer contato utlize o e-mail: gabriel.oliveira.quaresma@gmail.com 
 <!--
 **quarerma/quarerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
