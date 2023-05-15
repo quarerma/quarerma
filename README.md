@@ -11,7 +11,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quarerma&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quarerma)](https://github.com/quarerma/github-readme-stats)
 ##
 ###### Para qualquer contato utlize o e-mail: gabriel.oliveira.quaresma@gmail.com 
 <!--
