@@ -7,11 +7,8 @@
 ##
 ##### Tenho intenções profissionais em áreas de back-end e DataScience.
 ##### Atualmente uso esse perfil para dispôr meus arquivos de aula e trabalhos.
-
-
-
-####
-####
+###
+##
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quarerma&theme=dracula)](https://github.com/quarerma/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api?username=quarerma&theme=dracula)](https://github.com/quarerma)
 
 ##
