@@ -10,8 +10,9 @@
 
 
 
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quarerma&theme=dracula)](https://github.com/quarerma/github-readme-stats)| ----------- |      [![Top Langs](https://github-readme-stats.vercel.app/api?username=quarerma&theme=dracula)](https://github.com/quarerma)
+####
+####
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quarerma&theme=dracula)](https://github.com/quarerma/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api?username=quarerma&theme=dracula)](https://github.com/quarerma)
 
 ##
 ###### Para qualquer contato utlize o e-mail: gabriel.oliveira.quaresma@gmail.com 
