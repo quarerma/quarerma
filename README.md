@@ -1,13 +1,14 @@
 ### Olá 👋
 
-### Me chamo Quarerma ou Gabriel Quaresma, como preferir
-### Sou estudante pela Universidade Federal de Juiz de Fora (UFJF)
-### Curso de CiÊncias da Computação 3° período
+##### Me chamo Quarerma ou Gabriel Quaresma, como preferir
+##### Sou estudante pela Universidade Federal de Juiz de Fora (UFJF)
+##### Curso de CiÊncias da Computação 3° período
+###
+##
+##### Tenho intenções profissionais em áreas de back-end e DataScience
+##### Atualmente uso esse perfil para dispôr meus arquivos de aula e trabalhos
 
-### Tenho intenções profissionais em áreas de back-end e DataScience
-### Atualmente uso esse perfil para dispôr meus arquivos de aula e trabalhos
-
-#### Para qualquer contato utlize o e-mail: gabriel.oliveira.quaresma@gmail.com 
+######## Para qualquer contato utlize o e-mail: gabriel.oliveira.quaresma@gmail.com 
 
 
 
