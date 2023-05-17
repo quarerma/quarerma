@@ -9,7 +9,12 @@
 ##### Atualmente uso esse perfil para dispôr meus arquivos de aula e trabalhos.
 ###
 ##
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quarerma&theme=dracula)](https://github.com/quarerma/github-readme-stats)
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ##
 ###### Para qualquer contato utlize o e-mail: gabriel.oliveira.quaresma@gmail.com 
