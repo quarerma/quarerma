@@ -9,12 +9,9 @@
 ##### Atualmente uso esse perfil para dispôr meus arquivos de aula e trabalhos.
 ###
 ##
+![Quarerma's github stats](https://github-readme-stats.vercel.app/api?username=quarerma)
 
-<div>
-<a href="https://github.com/quarerma">
-<img height="180em" src="https://github.com/PencilNavigator/readme-stats-URL/api/top-langs/?username=quarerma&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github.com/PencilNavigator/readme-stats-URL/api?username=quarerma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </div>
+
 
 ##
 ###### Para qualquer contato utlize o e-mail: gabriel.oliveira.quaresma@gmail.com 
