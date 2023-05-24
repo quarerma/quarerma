@@ -10,7 +10,7 @@
 ###
 ##
 ![Quarerma's GitHub stats](https://github-readme-stats.vercel.app/api?username=quarerma&count_private=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quarerma&layout=donut)](https://github.com/quarerma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quarerma&layout=donut)](https://github.com/quarerma/github-readme-stats&theme=tokyonight)
 
 
 
