@@ -10,6 +10,7 @@
 ###
 ##
 ![Quarerma's github stats](https://github-readme-stats.vercel.app/api?username=quarerma)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quarerma)](https://github.com/quarerma/github-readme-stats)
 
 
 
