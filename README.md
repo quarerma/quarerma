@@ -15,7 +15,7 @@
 
 
 ##
-######### Para qualquer contato utlize o e-mail:
+##### Para qualquer contato utlize o e-mail:
 ```
 gabriel.oliveira.quaresma@gmail.com 
 ```
