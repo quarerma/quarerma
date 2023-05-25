@@ -15,9 +15,7 @@
 
 
 ##
-##### Para qualquer contato utlize o e-mail:
-```
-gabriel.oliveira.quaresma@gmail.com 
+##### Para qualquer contato utlize o e-mail: gabriel.oliveira.quaresma@gmail.com 
 ```
 <!--
 **quarerma/quarerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
