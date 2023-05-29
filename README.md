@@ -9,7 +9,7 @@
 ##### Atualmente uso esse perfil para dispôr meus arquivos de aula e trabalhos.
 ###
 ##
-![Quarerma's GitHub stats](https://github-readme-stats.vercel.app/api?username=quarerma&coutn_private=true&include_orgs=true&show_icons=true&theme=tokyonight)
+![Quarerma's GitHub stats](https://github-readme-stats.vercel.app/api?username=quarerma&count_private=true&orgs=barbara-ufjf&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quarerma&theme=tokyonight)
 
 
