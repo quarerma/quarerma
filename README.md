@@ -10,7 +10,7 @@
 ###
 ##
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quarerma&layout=compact&theme=tokyonight)
 
 
 
