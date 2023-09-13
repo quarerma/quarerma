@@ -2,7 +2,7 @@
 
 ##### Me chamo Quarerma ou Gabriel Quaresma, como preferir.
 ##### Sou estudante pela Universidade Federal de Juiz de Fora (UFJF).
-##### Curso de Ciências da Computação 3° período.
+##### Curso de Ciências da Computação.
 ###
 ##
 ##### Tenho intenções profissionais em áreas de back-end e DataScience.
