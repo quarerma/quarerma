@@ -5,7 +5,7 @@
 ##### Curso de Ciências da Computação.
 ###
 ##
-##### Tenho intenções profissionais em áreas de back-end e DataScience.
+##### Tenho intenções profissionais em áreas de Desenvolvimento web e DataScience.
 ##### Atualmente uso esse perfil para dispôr meus arquivos de aula e trabalhos.
 ###
 ##
