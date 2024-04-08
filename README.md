@@ -1,19 +1,23 @@
 ### Olá 👋
 
-##### Me chamo Quarerma ou Gabriel Quaresma, como preferir.
-##### Sou estudante pela Universidade Federal de Juiz de Fora (UFJF).
+##### Me chamo Gabriel Quaresma, sou estudante pela Universidade Federal de Juiz de Fora (UFJF). .
+
 ##### Curso de Ciências da Computação.
 ###
 ##
 ##### Tenho intenções profissionais em áreas de Desenvolvimento web e DataScience.
-##### Atualmente uso esse perfil para dispôr meus arquivos de aula e trabalhos.
+##### Atualmente uso esse perfil para dispôr meus arquivos de aula e trabalhos pessoais.
 ###
 ##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quarerma&layout=compact&theme=tokyonight)
 
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 ##
 ###### Para qualquer contato utlize o e-mail: gabriel.oliveira.quaresma@gmail.com 
 <!--
