@@ -15,9 +15,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,figma,java,js,postgres,prisma,postman,react,tailwind,ts,nestjs" />
   </a>
 </p>
+
 ##
 ###### Para qualquer contato utlize o e-mail: gabriel.oliveira.quaresma@gmail.com 
 <!--
